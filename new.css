@@ -1,0 +1,48 @@
+
+body{
+	color:red;
+	font-family:times new roman;
+	background:grey;
+}
+.rat ul{
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	text-decoration:none;
+	text-align:justify;
+	overflow:hidden;
+	
+} 
+.rav
+{
+	border:solid, red,1em;
+	padding:10px;
+	margin:10px;
+
+}
+.ff {
+	background:grey;
+	color:black;
+	font-size:14px;
+	font-family:sans;
+}
+.rat a{
+	text-align:center;
+	display:block;
+	float:left;
+	padding:5% 10px;
+	border-radius:25px;
+margin:45px;}
+.rat a:hover{ 
+background:blue;
+font-size:16;
+font-size:16px;
+font-weight:italic;
+}
+.rat:active{ 
+font-weight:italic;
+color:white;
+font size:16px;}
+
+.rat a{float:left}
+#bush{black}
